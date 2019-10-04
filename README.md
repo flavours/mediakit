@@ -2,9 +2,10 @@
 
 press and media related files regarding flavours
 
+## Logo
 
 ![Logo](flavours_512.png)
 
-![Logo](flavours_512.svg)
+## Logo and Text
 
-
+![Logo](flavours_logo.png)
