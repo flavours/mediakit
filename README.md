@@ -8,8 +8,8 @@ Our horizontal logo is the primary logo. This is the preferred logo to use in co
 
 | Standard                                                                    |                                       | Reversed                                                                                    |                                                          |
 | --------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Glossy** <br> [SVG](./assets/glossy.svg) [PNG](./assets/glossy.png)       | ![Glossy](./previews/glossy.png)      | **Glossy** <br> [SVG](./assets/GlossyReversed.svg) [PNG](./assets/GlossyReversed.png)       | ![Glossy - Reversed](./previews/GlossyReversed.png)      |
-| **Flat** <br>[SVG](./assets/flat.svg) [PNG](./assets/flat.png)              | ![Flat](./previews/flat.png)          | **Flat** <br>[SVG](./assets/FlatReversed.svg) [PNG](./assets/FlatReversed.png)              | ![Flat - Reversed](./previews/FlatReversed.png)          |
+| **Glossy** <br> [SVG](./assets/Glossy.svg) [PNG](./assets/Glossy.png)       | ![Glossy](./previews/Glossy.png)      | **Glossy** <br> [SVG](./assets/GlossyReversed.svg) [PNG](./assets/GlossyReversed.png)       | ![Glossy - Reversed](./previews/GlossyReversed.png)      |
+| **Flat** <br>[SVG](./assets/Flat.svg) [PNG](./assets/Flat.png)              | ![Flat](./previews/Flat.png)          | **Flat** <br>[SVG](./assets/FlatReversed.svg) [PNG](./assets/FlatReversed.png)              | ![Flat - Reversed](./previews/FlatReversed.png)          |
 | **One Color** <br>[SVG](./assets/OneColor.svg) [PNG](./assets/OneColor.png) | ![One Color](./previews/OneColor.png) | **One Color**<br> [SVG](./assets/OneColorReversed.svg) [PNG](./assets/OneColorReversed.png) | ![One Color - Reversed](./previews/OneColorReversed.png) |
 
 ## Icon
