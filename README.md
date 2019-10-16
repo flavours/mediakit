@@ -8,23 +8,23 @@ Our horizontal logo is the primary logo. This is the preferred logo to use in co
 
 | Standard                                                                    |                                       | Reversed                                                                                    |                                                          |
 | --------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Glossy** <br> [SVG](./assets/glossy.svg) [PNG](./assets/glossy.ong)       | ![Glossy](./previews/glossy.png)      | **Glossy** <br> [SVG](./assets/GlossyReversed.svg) [PNG](./assets/GlossyReversed.ong)       | ![Glossy - Reversed](./previews/GlossyReversed.png)      |
-| **Flat** <br>[SVG](./assets/flat.svg) [PNG](./assets/flat.ong)              | ![Flat](./previews/flat.png)          | **Flat** <br>[SVG](./assets/FlatReversed.svg) [PNG](./assets/FlatReversed.ong)              | ![Flat - Reversed](./previews/FlatReversed.png)          |
-| **One Color** <br>[SVG](./assets/OneColor.svg) [PNG](./assets/OneColor.ong) | ![One Color](./previews/OneColor.png) | **One Color**<br> [SVG](./assets/OneColorReversed.svg) [PNG](./assets/OneColorReversed.ong) | ![One Color - Reversed](./previews/OneColorReversed.png) |
+| **Glossy** <br> [SVG](./assets/glossy.svg) [PNG](./assets/glossy.png)       | ![Glossy](./previews/glossy.png)      | **Glossy** <br> [SVG](./assets/GlossyReversed.svg) [PNG](./assets/GlossyReversed.png)       | ![Glossy - Reversed](./previews/GlossyReversed.png)      |
+| **Flat** <br>[SVG](./assets/flat.svg) [PNG](./assets/flat.png)              | ![Flat](./previews/flat.png)          | **Flat** <br>[SVG](./assets/FlatReversed.svg) [PNG](./assets/FlatReversed.png)              | ![Flat - Reversed](./previews/FlatReversed.png)          |
+| **One Color** <br>[SVG](./assets/OneColor.svg) [PNG](./assets/OneColor.png) | ![One Color](./previews/OneColor.png) | **One Color**<br> [SVG](./assets/OneColorReversed.svg) [PNG](./assets/OneColorReversed.png) | ![One Color - Reversed](./previews/OneColorReversed.png) |
 
 ## Icon
 
 | Colour                                                                            |                                           | Black & White                                                                  |                                         |
 | --------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
-| **Icon Glossy** <br>[SVG](./assets/IconGlossy.svg) [PNG](./assets/IconGlossy.ong) | ![Icon Glossy](./previews/IconGlossy.png) | **Icon Black** <br>[SVG](./assets/IconBlack.svg) [PNG](./assets/IconBlack.ong) | ![Icon Black](./previews/IconBlack.png) |
-| **Icon Flat** <br>[SVG](./assets/IconFlat.svg) [PNG](./assets/IconFlat.ong)       | ![Icon Flat](./previews/IconFlat.png)     | **Icon White** <br>[SVG](./assets/IconWhite.svg) [PNG](./assets/IconWhite.ong) | ![Icon White](./previews/IconWhite.png) |
+| **Icon Glossy** <br>[SVG](./assets/IconGlossy.svg) [PNG](./assets/IconGlossy.png) | ![Icon Glossy](./previews/IconGlossy.png) | **Icon Black** <br>[SVG](./assets/IconBlack.svg) [PNG](./assets/IconBlack.png) | ![Icon Black](./previews/IconBlack.png) |
+| **Icon Flat** <br>[SVG](./assets/IconFlat.svg) [PNG](./assets/IconFlat.png)       | ![Icon Flat](./previews/IconFlat.png)     | **Icon White** <br>[SVG](./assets/IconWhite.svg) [PNG](./assets/IconWhite.png) | ![Icon White](./previews/IconWhite.png) |
 
 ## Flavours
 
 |                                                                        |                                         |                                                                              |                                              |                                                                              |                                             |
 | ---------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------- |
-| **Node** <br>[SVG](./assets/IconNode.svg) [PNG](./assets/IconNode.ong) | ![Icon - Node](./previews/IconNode.png) | **Python** <br>[SVG](./assets/IconPython.svg) [PNG](./assets/IconPython.ong) | ![Icon - Python](./previews/IconPython.png)  | **PHP**<br> [SVG](./assets/IconPHP.svg) [PNG](./assets/IconPHP.ong)          | ![*Icon - PHP](./previews/IconPHP.png)      |
-| **Go** <br>[SVG](./assets/IconGo.svg) [PNG](./assets/IconGo.ong)       | ![con - Go](./previews/IconGo.png)      | **.net core** <br>[SVG](./assets/IconNet.svg) [PNG](./assets/IconNet.ong)    | ![Icon - .net core*](./previews/IconNet.png) | **Aldryn** <br>[SVG](./assets/IconAldryn.svg) [PNG](./assets/IconAldryn.ong) | ![Icon - Aldryn](./previews/IconAldryn.png) |
+| **Node** <br>[SVG](./assets/IconNode.svg) [PNG](./assets/IconNode.png) | ![Icon - Node](./previews/IconNode.png) | **Python** <br>[SVG](./assets/IconPython.svg) [PNG](./assets/IconPython.png) | ![Icon - Python](./previews/IconPython.png)  | **PHP**<br> [SVG](./assets/IconPHP.svg) [PNG](./assets/IconPHP.png)          | ![*Icon - PHP](./previews/IconPHP.png)      |
+| **Go** <br>[SVG](./assets/Icono.svg) [PNG](./assets/Icono.png)         | ![con - Go](./previews/Icono.png)       | **.net core** <br>[SVG](./assets/IconNet.svg) [PNG](./assets/IconNet.png)    | ![Icon - .net core*](./previews/IconNet.png) | **Aldryn** <br>[SVG](./assets/IconAldryn.svg) [PNG](./assets/IconAldryn.png) | ![Icon - Aldryn](./previews/IconAldryn.png) |
 
 ## Colors
 
