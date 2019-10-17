@@ -1,9 +1,3 @@
-<style type="text/css" rel="stylesheet">
-    .markdown-body table th {
-        border-color: white;
-    }
-</style>
-
 # Mediakit
 
 Welcome to Flavours media kit! Feel free to download our brand assets. A lot of work went into them, so we appreciate if you leave them unchanged and looking forward to seeing them all over the web. Need another asset? [Please let us know](ailto:support@divio.com).
